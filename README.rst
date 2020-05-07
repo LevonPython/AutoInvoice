@@ -27,7 +27,7 @@ Installation
 ============
 Usage
 ============ 
-.. image:: https://github.com/LevonPython/AutoInvoice/blob/master/icon.png
+.. image:: https://github.com/LevonPython/AutoInvoice/blob/master/Autoinvoice%201.1.png
    :align: center
    :target: https://www.youtube.com/watch?v=u7BTDNEzChQ&t=19s
    :alt: AutoInvoice Logo  
