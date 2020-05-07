@@ -1,6 +1,6 @@
-.. image:: https://github.com/LevonPython/PBI_refresher_Zeppa/blob/master/PBI%20refresher%20pic.png
+.. image:: https://github.com/LevonPython/AutoInvoice/blob/master/icon10.ico
    :align: center
-   :target: https://powerbi.microsoft.com/en-us/
+   :target: https://github.com/LevonPython/AutoInvoice
    :alt: AutoInvoice Logo
 ============
 AutoInvoice
