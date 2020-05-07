@@ -2,10 +2,7 @@
    :align: center
    :target: https://github.com/LevonPython/AutoInvoice
    :alt: AutoInvoice Logo
-.. image:: https://github.com/LevonPython/AutoInvoice/blob/master/icon.png
-   :align: center
-   :target: https://github.com/LevonPython/AutoInvoice
-   :alt: AutoInvoice Logo
+
    
 ============
 AutoInvoice
@@ -30,11 +27,17 @@ Installation
 ============
 Usage
 ============ 
+.. image:: https://github.com/LevonPython/AutoInvoice/blob/master/icon.png
+   :align: center
+   :target: https://www.youtube.com/watch?v=u7BTDNEzChQ&t=19s
+   :alt: AutoInvoice Logo  
+
 
 ============
 How it works
 ============
-
+This is the url for training option:
+https://www.youtube.com/watch?v=u7BTDNEzChQ&t=19s
 
 ============
 Bug reporting
