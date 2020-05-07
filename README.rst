@@ -64,7 +64,7 @@ Usage
 ============
 How it works
 ============
-Attached is a url to a tutorial video that shows in more detail the skills of using the program::
+Attached is a url to a tutorial video that shows in more detail the skills of using the program:<br/>
 https://www.youtube.com/watch?v=u7BTDNEzChQ&t=19s
 
 ============
