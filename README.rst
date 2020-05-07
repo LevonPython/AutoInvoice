@@ -2,6 +2,11 @@
    :align: center
    :target: https://github.com/LevonPython/AutoInvoice
    :alt: AutoInvoice Logo
+.. image:: https://github.com/LevonPython/AutoInvoice/blob/master/icon.png
+   :align: center
+   :target: https://github.com/LevonPython/AutoInvoice
+   :alt: AutoInvoice Logo
+   
 ============
 AutoInvoice
 ============
