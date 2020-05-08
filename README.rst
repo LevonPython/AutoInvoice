@@ -70,3 +70,4 @@ https://www.youtube.com/watch?v=u7BTDNEzChQ&t=19s
 ============
 Bug reporting
 ============
+Create Github issue. Please write versions of your Windows, OS and python.
